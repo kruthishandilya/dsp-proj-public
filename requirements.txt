@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+psycopg2-binary
+pandas
+scikit-learn
+joblib
+python-dotenv
+requests
+great-expectations
